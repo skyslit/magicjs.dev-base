@@ -4,7 +4,7 @@
   "description": "",
   "main": "server/main.js",
   "scripts": {
-    "start": "ark"
+    "start": "ark --start"
   },
   "keywords": [],
   "author": "",
@@ -12,10 +12,10 @@
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
-    "@skyslit/ark-backend": "^3.0.2",
-    "@skyslit/ark-cli": "^3.0.2",
-    "@skyslit/ark-devtools": "^3.0.2",
-    "@skyslit/ark-frontend": "^3.0.2",
+    "@skyslit/ark": "^3.0.7",
+    "@skyslit/ark-backend": "^3.0.7",
+    "@skyslit/ark-devtools": "^3.0.7",
+    "@skyslit/ark-frontend": "^3.0.7",
     "autoprefixer": "^10.4.16",
     "express": "4.18.2",
     "postcss-preset-env": "^9.3.0",
