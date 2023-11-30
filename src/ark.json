@@ -2,7 +2,7 @@
     "routes": [
         {
             "path": "/",
-            "view": "views/HomePage.tsx"
+            "view": "features/authentication/login.client.tsx"
         }
     ]
 }
