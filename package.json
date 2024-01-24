@@ -13,7 +13,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
-    "@magicjs.dev/backend": "^3.0.52",
+    "@magicjs.dev/backend": "^3.0.53",
     "@magicjs.dev/cli": "^3.0.51",
     "@magicjs.dev/devtools": "^3.0.51",
     "@magicjs.dev/frontend": "^3.0.51",
