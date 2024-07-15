@@ -5,7 +5,8 @@
   "main": "server/main.js",
   "scripts": {
     "start": "magicjs --start",
-    "build": "magicjs --build"
+    "build": "magicjs --build",
+    "build-image": "docker build . -t new-project:latest --platform=linux/amd64"
   },
   "keywords": [],
   "author": "",
